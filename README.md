@@ -83,7 +83,7 @@ CLIC O TOQUE ❲☰❳ PARA VER EL ESPEJO
 </div>
 <p align="right">
   [<a href="https://gitlab.com/type-moon/moon-type#">espejo</a>]
-</p>             |
+</p>             
   
 ## <samp>Descargar</samp>
 
