@@ -72,7 +72,7 @@ La mayoría fueron escritos desde cero. Algunos detalles:
 - **MLib** : [MLib](https://github.com/MOON-TYPE/mlib) es una libreria para Unity Engine con extensiones utiles de diversos campos.
 - **MIcaros** : [MIcaros](https://github.com/MOON-TYPE/micaros) es una herramienta para facilitar la construccion de elementos ScriptableObjects en Unity Engine.
 - **MDoc** : [MDoc](https://github.com/MOON-TYPE/mdoc) Es una herramienta para crear documentacion rapida, simple y en el editor de Unity Engine.
-- **MJerarquia** : [MJerarquia](https://github.com/MOON-TYPE/mjerarquia) controla la jerarquia de Unity Engine agregando nuevas funcionalidades.
+- **MEditor** : [MEditor](https://github.com/MOON-TYPE/meditor) algunas mejoras de Unity Engine agregando nuevas funcionalidades.
 
 <div align="center">
 
